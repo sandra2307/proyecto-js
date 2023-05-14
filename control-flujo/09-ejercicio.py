@@ -7,6 +7,7 @@ print("Bienvenidos a la calculadora")
 print("Para salir escribe Salir")
 print("Las operaciones son suma, multi, div y resta")
 
+
 # SOLUCIÓN
 resultado = ""
 
